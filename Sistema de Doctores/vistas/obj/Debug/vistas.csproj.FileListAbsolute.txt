@@ -1,0 +1,29 @@
+C:\Users\Estudiante\source\repos\Sistema de Doctores\vistas\bin\Debug\vistas.exe.config
+C:\Users\Estudiante\source\repos\Sistema de Doctores\vistas\bin\Debug\vistas.exe
+C:\Users\Estudiante\source\repos\Sistema de Doctores\vistas\bin\Debug\vistas.pdb
+C:\Users\Estudiante\source\repos\Sistema de Doctores\vistas\obj\Debug\vistas.csproj.AssemblyReference.cache
+C:\Users\Estudiante\source\repos\Sistema de Doctores\vistas\obj\Debug\vistas.Properties.Resources.resources
+C:\Users\Estudiante\source\repos\Sistema de Doctores\vistas\obj\Debug\vistas.csproj.GenerateResource.cache
+C:\Users\Estudiante\source\repos\Sistema de Doctores\vistas\obj\Debug\vistas.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\source\repos\Sistema de Doctores\vistas\obj\Debug\vistas.exe
+C:\Users\Estudiante\source\repos\Sistema de Doctores\vistas\obj\Debug\vistas.pdb
+C:\Users\Estudiante\source\repos\Sistema de Doctores\vistas\obj\Debug\vistas.exe.config
+C:\Users\Estudiante\source\repos\Sistema de Doctores\vistas\bin\Debug\Modelo.dll
+C:\Users\Estudiante\source\repos\Sistema de Doctores\vistas\bin\Debug\Modelo.pdb
+C:\Users\Estudiante\source\repos\Sistema de Doctores\vistas\obj\Debug\vistas.csproj.Up2Date
+C:\Users\Estudiante\source\repos\Sistema de Doctores\vistas\obj\Debug\vistas.Formularios.frmPaciente.resources
+C:\Users\Estudiante\source\repos\Sistema de Doctores\vistas\obj\Debug\vistas.Formularios.frmDoctor.resources
+C:\Users\Estudiante\Downloads\Sistema de Doctores\Sistema de Doctores\vistas\bin\Debug\vistas.exe.config
+C:\Users\Estudiante\Downloads\Sistema de Doctores\Sistema de Doctores\vistas\bin\Debug\vistas.exe
+C:\Users\Estudiante\Downloads\Sistema de Doctores\Sistema de Doctores\vistas\bin\Debug\vistas.pdb
+C:\Users\Estudiante\Downloads\Sistema de Doctores\Sistema de Doctores\vistas\bin\Debug\Modelo.dll
+C:\Users\Estudiante\Downloads\Sistema de Doctores\Sistema de Doctores\vistas\bin\Debug\Modelo.pdb
+C:\Users\Estudiante\Downloads\Sistema de Doctores\Sistema de Doctores\vistas\obj\Debug\vistas.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Downloads\Sistema de Doctores\Sistema de Doctores\vistas\obj\Debug\vistas.Formularios.frmDoctor.resources
+C:\Users\Estudiante\Downloads\Sistema de Doctores\Sistema de Doctores\vistas\obj\Debug\vistas.Formularios.frmPaciente.resources
+C:\Users\Estudiante\Downloads\Sistema de Doctores\Sistema de Doctores\vistas\obj\Debug\vistas.Properties.Resources.resources
+C:\Users\Estudiante\Downloads\Sistema de Doctores\Sistema de Doctores\vistas\obj\Debug\vistas.csproj.GenerateResource.cache
+C:\Users\Estudiante\Downloads\Sistema de Doctores\Sistema de Doctores\vistas\obj\Debug\vistas.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Downloads\Sistema de Doctores\Sistema de Doctores\vistas\obj\Debug\vistas.csproj.Up2Date
+C:\Users\Estudiante\Downloads\Sistema de Doctores\Sistema de Doctores\vistas\obj\Debug\vistas.exe
+C:\Users\Estudiante\Downloads\Sistema de Doctores\Sistema de Doctores\vistas\obj\Debug\vistas.pdb
