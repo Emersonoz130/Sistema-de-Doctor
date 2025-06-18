@@ -18,10 +18,6 @@ namespace vistas.Formularios
             InitializeComponent();
         }
 
-        private void textBox4_TextChanged(object sender, EventArgs e)
-        {
-
-        }
 
         private void frmDoctor_Load(object sender, EventArgs e)
         {
@@ -32,6 +28,17 @@ namespace vistas.Formularios
             dgvDoctores.DataSource = Doctor.CargarDoctores();
         }
 
-      
+        private void btnInsertar_Click(object sender, EventArgs e)
+        {
+            //Aqui debemos crear el objeto Doctor
+            Doctor doc= new Doctor();
+            doc.Nombre =txtNombre.Text;
+            doc.Apellido =txtApellido.Text;
+            doc.Especialidad =txtEspecialidad.Text;
+            doc.Cargo =txtCargo.Text;
+            doc.InsertarDoctores();
+            //Traemos el metodos MostrarDoctores() para verificar si se inserta y se actualiza el dataGridView
+            MostrarDoctores();
+        }
     }
 }

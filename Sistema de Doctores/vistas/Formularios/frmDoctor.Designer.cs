@@ -83,6 +83,7 @@
             this.btnInsertar.TabIndex = 2;
             this.btnInsertar.Text = "Agregar";
             this.btnInsertar.UseVisualStyleBackColor = true;
+            this.btnInsertar.Click += new System.EventHandler(this.btnInsertar_Click);
             // 
             // btnActualizar
             // 
@@ -94,12 +95,12 @@
             this.btnActualizar.UseVisualStyleBackColor = true;
             // 
             // txtCargo
-            // 
+            // +
             this.txtCargo.Location = new System.Drawing.Point(123, 149);
             this.txtCargo.Name = "txtCargo";
             this.txtCargo.Size = new System.Drawing.Size(283, 26);
             this.txtCargo.TabIndex = 1;
-            this.txtCargo.TextChanged += new System.EventHandler(this.textBox4_TextChanged);
+         
             // 
             // txtEspecialidad
             // 

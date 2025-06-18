@@ -39,6 +39,35 @@ namespace Modelo.Entidades
             add.Fill(dataVirtual);
             return dataVirtual;
         }
+
+        public bool InsertarDoctores() {
+            //siempre traer la conexion
+            SqlConnection conexion = Conexion.Conexion.Conectar();
+            string consultaQueryInsert = "insert into Doctores(Nombre,Apellido,Especialidad,Cargo) VALUES(@nombre,@apellido,@especialidad,@cargo);";
+            SqlCommand insertar = new SqlCommand(consultaQueryInsert,conexion);
+            //Vamos a insertar o sustituir los @nombre con los datos que se obtienen en los txt
+            insertar.Parameters.AddWithValue("@nombre",nombre);
+            insertar.Parameters.AddWithValue("@apellido", apellido);
+            insertar.Parameters.AddWithValue("@especialidad", especialidad);
+            insertar.Parameters.AddWithValue("@cargo", cargo);
+
+            //Ahora que ya insertamos debemos ejecutar la sentencia
+            //utilizaremos el Metodo ExecuteNonQuery();
+          
+            //debemos verificar si la se inserto el dato para ello validamos con if y else
+            if (insertar.ExecuteNonQuery()>0) { 
+                //Porque mayor que 0 ? porque son las filas que fueron afectadas
+                return true;
+            
+            } 
+            else 
+            { 
+            return false;
+            
+            }
+
+
+        }
     
     }
 
