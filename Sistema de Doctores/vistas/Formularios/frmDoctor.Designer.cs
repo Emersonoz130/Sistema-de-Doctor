@@ -95,12 +95,11 @@
             this.btnActualizar.UseVisualStyleBackColor = true;
             // 
             // txtCargo
-            // +
+            // 
             this.txtCargo.Location = new System.Drawing.Point(123, 149);
             this.txtCargo.Name = "txtCargo";
             this.txtCargo.Size = new System.Drawing.Size(283, 26);
             this.txtCargo.TabIndex = 1;
-         
             // 
             // txtEspecialidad
             // 
@@ -158,6 +157,7 @@
             this.lblNombre.Size = new System.Drawing.Size(76, 20);
             this.lblNombre.TabIndex = 0;
             this.lblNombre.Text = "Nombre:";
+           
             // 
             // dgvDoctores
             // 

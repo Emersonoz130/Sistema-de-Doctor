@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Estudiante\\Desktop\\Sistema-de-Doctor\\Sistema de Doctores\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2DED0ABE-1D3F-432D-999A-C77B5F308D46}|vistas\\vistas.csproj|C:\\Users\\Estudiante\\Desktop\\Sistema-de-Doctor\\Sistema de Doctores\\vistas\\formularios\\frmdoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2DED0ABE-1D3F-432D-999A-C77B5F308D46}|vistas\\vistas.csproj|solutionrelative:vistas\\formularios\\frmdoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D59E4696-DE1A-49C7-B4A7-30E87772BB15}|Modelo\\Modelo.csproj|C:\\Users\\Estudiante\\Desktop\\Sistema-de-Doctor\\Sistema de Doctores\\modelo\\conexion\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D59E4696-DE1A-49C7-B4A7-30E87772BB15}|Modelo\\Modelo.csproj|solutionrelative:modelo\\conexion\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DED0ABE-1D3F-432D-999A-C77B5F308D46}|vistas\\vistas.csproj|c:\\users\\estudiante\\desktop\\sistema-de-doctor\\sistema de doctores\\vistas\\formularios\\frmdoctor.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DED0ABE-1D3F-432D-999A-C77B5F308D46}|vistas\\vistas.csproj|solutionrelative:vistas\\formularios\\frmdoctor.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2DED0ABE-1D3F-432D-999A-C77B5F308D46}|vistas\\vistas.csproj|C:\\Users\\Estudiante\\Desktop\\Sistema-de-Doctor\\Sistema de Doctores\\vistas\\formularios\\frmdoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2DED0ABE-1D3F-432D-999A-C77B5F308D46}|vistas\\vistas.csproj|solutionrelative:vistas\\formularios\\frmdoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D59E4696-DE1A-49C7-B4A7-30E87772BB15}|Modelo\\Modelo.csproj|c:\\users\\estudiante\\desktop\\sistema-de-doctor\\sistema de doctores\\modelo\\entidades\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D59E4696-DE1A-49C7-B4A7-30E87772BB15}|Modelo\\Modelo.csproj|solutionrelative:modelo\\entidades\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2DED0ABE-1D3F-432D-999A-C77B5F308D46}|vistas\\vistas.csproj|C:\\Users\\Estudiante\\Desktop\\Sistema-de-Doctor\\Sistema de Doctores\\vistas\\formularios\\frmpaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DED0ABE-1D3F-432D-999A-C77B5F308D46}|vistas\\vistas.csproj|solutionrelative:vistas\\formularios\\frmpaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D59E4696-DE1A-49C7-B4A7-30E87772BB15}|Modelo\\Modelo.csproj|C:\\Users\\Estudiante\\Desktop\\Sistema-de-Doctor\\Sistema de Doctores\\modelo\\conexion\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D59E4696-DE1A-49C7-B4A7-30E87772BB15}|Modelo\\Modelo.csproj|solutionrelative:modelo\\conexion\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2DED0ABE-1D3F-432D-999A-C77B5F308D46}|vistas\\vistas.csproj|C:\\Users\\Estudiante\\Desktop\\Sistema-de-Doctor\\Sistema de Doctores\\vistas\\formularios\\frmdoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DED0ABE-1D3F-432D-999A-C77B5F308D46}|vistas\\vistas.csproj|solutionrelative:vistas\\formularios\\frmdoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D59E4696-DE1A-49C7-B4A7-30E87772BB15}|Modelo\\Modelo.csproj|c:\\users\\estudiante\\desktop\\sistema-de-doctor\\sistema de doctores\\modelo\\entidades\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D59E4696-DE1A-49C7-B4A7-30E87772BB15}|Modelo\\Modelo.csproj|solutionrelative:modelo\\entidades\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2DED0ABE-1D3F-432D-999A-C77B5F308D46}|vistas\\vistas.csproj|C:\\Users\\Estudiante\\Desktop\\Sistema-de-Doctor\\Sistema de Doctores\\vistas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2DED0ABE-1D3F-432D-999A-C77B5F308D46}|vistas\\vistas.csproj|C:\\Users\\Estudiante\\Desktop\\Sistema-de-Doctor\\Sistema de Doctores\\vistas\\formularios\\frmingreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2DED0ABE-1D3F-432D-999A-C77B5F308D46}|vistas\\vistas.csproj|solutionrelative:vistas\\formularios\\frmingreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2DED0ABE-1D3F-432D-999A-C77B5F308D46}|vistas\\vistas.csproj|C:\\Users\\Estudiante\\Desktop\\Sistema-de-Doctor\\Sistema de Doctores\\vistas\\formularios\\frmpaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2DED0ABE-1D3F-432D-999A-C77B5F308D46}|vistas\\vistas.csproj|solutionrelative:vistas\\formularios\\frmpaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2DED0ABE-1D3F-432D-999A-C77B5F308D46}|vistas\\vistas.csproj|C:\\Users\\Estudiante\\Desktop\\Sistema-de-Doctor\\Sistema de Doctores\\vistas\\formularios\\frmpaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -50,16 +54,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "frmDoctor.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Estudiante\\Desktop\\Sistema-de-Doctor\\Sistema de Doctores\\vistas\\Formularios\\frmDoctor.cs",
               "RelativeDocumentMoniker": "vistas\\Formularios\\frmDoctor.cs",
-              "ToolTip": "C:\\Users\\Estudiante\\Desktop\\Sistema-de-Doctor\\Sistema de Doctores\\vistas\\Formularios\\frmDoctor.cs [Dise\u00F1o]*",
-              "RelativeToolTip": "vistas\\Formularios\\frmDoctor.cs [Dise\u00F1o]*",
+              "ToolTip": "C:\\Users\\Estudiante\\Desktop\\Sistema-de-Doctor\\Sistema de Doctores\\vistas\\Formularios\\frmDoctor.cs [Dise\u00F1o]",
+              "RelativeToolTip": "vistas\\Formularios\\frmDoctor.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-18T16:24:40.881Z",
               "IsPinned": true,
@@ -67,19 +71,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
+              "Title": "frmDoctor.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Estudiante\\Desktop\\Sistema-de-Doctor\\Sistema de Doctores\\vistas\\Formularios\\frmDoctor.Designer.cs",
+              "RelativeDocumentMoniker": "vistas\\Formularios\\frmDoctor.Designer.cs",
+              "ToolTip": "C:\\Users\\Estudiante\\Desktop\\Sistema-de-Doctor\\Sistema de Doctores\\vistas\\Formularios\\frmDoctor.Designer.cs",
+              "RelativeToolTip": "vistas\\Formularios\\frmDoctor.Designer.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAUwGEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T20:05:12.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "frmPaciente.cs",
               "DocumentMoniker": "C:\\Users\\Estudiante\\Desktop\\Sistema-de-Doctor\\Sistema de Doctores\\vistas\\Formularios\\frmPaciente.cs",
               "RelativeDocumentMoniker": "vistas\\Formularios\\frmPaciente.cs",
               "ToolTip": "C:\\Users\\Estudiante\\Desktop\\Sistema-de-Doctor\\Sistema de Doctores\\vistas\\Formularios\\frmPaciente.cs",
               "RelativeToolTip": "vistas\\Formularios\\frmPaciente.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAA1wDEAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwDEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T16:24:16.438Z"
+              "WhenOpened": "2025-06-18T16:24:16.438Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Estudiante\\Desktop\\Sistema-de-Doctor\\Sistema de Doctores\\vistas\\Program.cs",
               "RelativeDocumentMoniker": "vistas\\Program.cs",
@@ -91,20 +109,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "frmDoctor.cs",
               "DocumentMoniker": "C:\\Users\\Estudiante\\Desktop\\Sistema-de-Doctor\\Sistema de Doctores\\vistas\\Formularios\\frmDoctor.cs",
               "RelativeDocumentMoniker": "vistas\\Formularios\\frmDoctor.cs",
-              "ToolTip": "C:\\Users\\Estudiante\\Desktop\\Sistema-de-Doctor\\Sistema de Doctores\\vistas\\Formularios\\frmDoctor.cs*",
-              "RelativeToolTip": "vistas\\Formularios\\frmDoctor.cs*",
-              "ViewState": "AgIAABIAAAAAAAAAAAAmwCsAAABuAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Estudiante\\Desktop\\Sistema-de-Doctor\\Sistema de Doctores\\vistas\\Formularios\\frmDoctor.cs",
+              "RelativeToolTip": "vistas\\Formularios\\frmDoctor.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-18T17:02:03.086Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Doctor.cs",
               "DocumentMoniker": "C:\\Users\\Estudiante\\Desktop\\Sistema-de-Doctor\\Sistema de Doctores\\Modelo\\Entidades\\Doctor.cs",
               "RelativeDocumentMoniker": "Modelo\\Entidades\\Doctor.cs",
@@ -117,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "frmIngreso.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Estudiante\\Desktop\\Sistema-de-Doctor\\Sistema de Doctores\\vistas\\Formularios\\frmIngreso.cs",
               "RelativeDocumentMoniker": "vistas\\Formularios\\frmIngreso.cs",
@@ -128,19 +146,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Conexion.cs",
               "DocumentMoniker": "C:\\Users\\Estudiante\\Desktop\\Sistema-de-Doctor\\Sistema de Doctores\\Modelo\\Conexion\\Conexion.cs",
               "RelativeDocumentMoniker": "Modelo\\Conexion\\Conexion.cs",
               "ToolTip": "C:\\Users\\Estudiante\\Desktop\\Sistema-de-Doctor\\Sistema de Doctores\\Modelo\\Conexion\\Conexion.cs",
               "RelativeToolTip": "Modelo\\Conexion\\Conexion.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAABEAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T16:11:12.383Z"
+              "WhenOpened": "2025-06-18T16:11:12.383Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Paciente.cs",
               "DocumentMoniker": "C:\\Users\\Estudiante\\Desktop\\Sistema-de-Doctor\\Sistema de Doctores\\Modelo\\Entidades\\Paciente.cs",
               "RelativeDocumentMoniker": "Modelo\\Entidades\\Paciente.cs",
@@ -152,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Ingreso.cs",
               "DocumentMoniker": "C:\\Users\\Estudiante\\Desktop\\Sistema-de-Doctor\\Sistema de Doctores\\Modelo\\Entidades\\Ingreso.cs",
               "RelativeDocumentMoniker": "Modelo\\Entidades\\Ingreso.cs",
@@ -164,14 +183,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "frmPaciente.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Estudiante\\Desktop\\Sistema-de-Doctor\\Sistema de Doctores\\vistas\\Formularios\\frmPaciente.cs",
               "RelativeDocumentMoniker": "vistas\\Formularios\\frmPaciente.cs",
-              "ToolTip": "C:\\Users\\Estudiante\\source\\repos\\Sistema de Doctores\\vistas\\Formularios\\frmPaciente.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\..\\source\\repos\\Sistema de Doctores\\vistas\\Formularios\\frmPaciente.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Estudiante\\Desktop\\Sistema-de-Doctor\\Sistema de Doctores\\vistas\\Formularios\\frmPaciente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "vistas\\Formularios\\frmPaciente.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T16:24:15.268Z"
+              "WhenOpened": "2025-06-18T16:24:15.268Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }

@@ -40,5 +40,7 @@ namespace vistas.Formularios
             //Traemos el metodos MostrarDoctores() para verificar si se inserta y se actualiza el dataGridView
             MostrarDoctores();
         }
+
+       
     }
 }
