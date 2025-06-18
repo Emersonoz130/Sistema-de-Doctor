@@ -10,8 +10,8 @@ namespace Modelo.Conexion
 {
     public class Conexion
     {
-        private static string servidor= "DESKTOP-JVGVM0A\\SQLEXPRESS";
-        private static string baseDeDatos="dbDoctores";
+        private static string servidor= "LAB02-DS-EQ02\\SQLEXPRESS";
+        private static string baseDeDatos= "dbHospital";
 
         public static SqlConnection Conectar() {
             string cadena = $"Data source={servidor};Initial Catalog={baseDeDatos};Integrated Security = true;";

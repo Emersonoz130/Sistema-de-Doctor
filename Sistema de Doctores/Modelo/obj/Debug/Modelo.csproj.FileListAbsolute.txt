@@ -16,3 +16,12 @@ C:\Users\Estudiante\Downloads\Sistema de Doctores\Sistema de Doctores\Modelo\obj
 C:\Users\Estudiante\Downloads\Sistema de Doctores\Sistema de Doctores\Modelo\obj\Debug\Modelo.csproj.Up2Date
 C:\Users\Estudiante\Downloads\Sistema de Doctores\Sistema de Doctores\Modelo\obj\Debug\Modelo.dll
 C:\Users\Estudiante\Downloads\Sistema de Doctores\Sistema de Doctores\Modelo\obj\Debug\Modelo.pdb
+C:\Users\Estudiante\Desktop\Sistema-de-Doctor\Sistema de Doctores\Modelo\bin\Debug\Modelo.dll
+C:\Users\Estudiante\Desktop\Sistema-de-Doctor\Sistema de Doctores\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Estudiante\Desktop\Sistema-de-Doctor\Sistema de Doctores\Modelo\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Estudiante\Desktop\Sistema-de-Doctor\Sistema de Doctores\Modelo\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Estudiante\Desktop\Sistema-de-Doctor\Sistema de Doctores\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Desktop\Sistema-de-Doctor\Sistema de Doctores\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\Sistema-de-Doctor\Sistema de Doctores\Modelo\obj\Debug\Modelo.csproj.Up2Date
+C:\Users\Estudiante\Desktop\Sistema-de-Doctor\Sistema de Doctores\Modelo\obj\Debug\Modelo.dll
+C:\Users\Estudiante\Desktop\Sistema-de-Doctor\Sistema de Doctores\Modelo\obj\Debug\Modelo.pdb
