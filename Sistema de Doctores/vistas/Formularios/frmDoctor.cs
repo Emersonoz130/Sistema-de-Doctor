@@ -31,14 +31,23 @@ namespace vistas.Formularios
         private void btnInsertar_Click(object sender, EventArgs e)
         {
             //Aqui debemos crear el objeto Doctor
-            Doctor doc= new Doctor();
-            doc.Nombre =txtNombre.Text;
-            doc.Apellido =txtApellido.Text;
-            doc.Especialidad =txtEspecialidad.Text;
-            doc.Cargo =txtCargo.Text;
+            Doctor doc = new Doctor();
+            doc.Nombre = txtNombre.Text;
+            doc.Apellido = txtApellido.Text;
+            doc.Especialidad = txtEspecialidad.Text;
+            doc.Cargo = txtCargo.Text;
             doc.InsertarDoctores();
+            limiarCamposRegistrados();
             //Traemos el metodos MostrarDoctores() para verificar si se inserta y se actualiza el dataGridView
             MostrarDoctores();
+        }
+        private void limiarCamposRegistrados(){
+            MessageBox.Show("Registro exitoso");
+            txtNombre.Clear();
+            txtApellido.Clear();
+            txtEspecialidad.Clear();
+            txtCargo.Clear();
+
         }
 
        

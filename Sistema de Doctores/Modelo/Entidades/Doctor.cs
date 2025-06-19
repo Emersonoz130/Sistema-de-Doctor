@@ -27,7 +27,7 @@ namespace Modelo.Entidades
             //Establecemos la conexion
             SqlConnection conexion= Conexion.Conexion.Conectar();
             //Creamos el query
-            string consulataQuery = "select * from Doctores;";
+            string consulataQuery = "select Nombre,Apellido,Especialidad,Cargo from Doctores;";
             //Creamos un objeto adapter para obtener el resultado de nuestro select * from o query
             //que para que funcione le pasamos la consulta y una conexion
             SqlDataAdapter add = new SqlDataAdapter(consulataQuery, conexion);
@@ -57,6 +57,7 @@ namespace Modelo.Entidades
             //debemos verificar si la se inserto el dato para ello validamos con if y else
             if (insertar.ExecuteNonQuery()>0) { 
                 //Porque mayor que 0 ? porque son las filas que fueron afectadas
+               
                 return true;
             
             } 

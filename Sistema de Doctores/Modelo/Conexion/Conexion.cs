@@ -10,7 +10,7 @@ namespace Modelo.Conexion
 {
     public class Conexion
     {
-        private static string servidor= "LAB02-DS-EQ02\\SQLEXPRESS";
+        private static string servidor= "LAB03-DS-EQ01\\SQLEXPRESS";
         private static string baseDeDatos= "dbHospital";
 
         public static SqlConnection Conectar() {

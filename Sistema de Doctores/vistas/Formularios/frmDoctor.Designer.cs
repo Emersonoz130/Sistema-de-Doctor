@@ -157,17 +157,16 @@
             this.lblNombre.Size = new System.Drawing.Size(76, 20);
             this.lblNombre.TabIndex = 0;
             this.lblNombre.Text = "Nombre:";
-           
             // 
             // dgvDoctores
             // 
             this.dgvDoctores.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.dgvDoctores.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvDoctores.Location = new System.Drawing.Point(51, 266);
+            this.dgvDoctores.Location = new System.Drawing.Point(41, 266);
             this.dgvDoctores.Name = "dgvDoctores";
             this.dgvDoctores.ReadOnly = true;
             this.dgvDoctores.RowHeadersVisible = false;
-            this.dgvDoctores.Size = new System.Drawing.Size(673, 150);
+            this.dgvDoctores.Size = new System.Drawing.Size(683, 150);
             this.dgvDoctores.TabIndex = 1;
             // 
             // frmDoctor
