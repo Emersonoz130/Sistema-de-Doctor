@@ -25,3 +25,12 @@ C:\Users\Estudiante\Desktop\Sistema-de-Doctor\Sistema de Doctores\Modelo\obj\Deb
 C:\Users\Estudiante\Desktop\Sistema-de-Doctor\Sistema de Doctores\Modelo\obj\Debug\Modelo.csproj.Up2Date
 C:\Users\Estudiante\Desktop\Sistema-de-Doctor\Sistema de Doctores\Modelo\obj\Debug\Modelo.dll
 C:\Users\Estudiante\Desktop\Sistema-de-Doctor\Sistema de Doctores\Modelo\obj\Debug\Modelo.pdb
+C:\Users\Emerson Rodriguez\Desktop\Proyecto_SistemaBase\Sistema-de-Doctor\Sistema de Doctores\Modelo\bin\Debug\Modelo.dll
+C:\Users\Emerson Rodriguez\Desktop\Proyecto_SistemaBase\Sistema-de-Doctor\Sistema de Doctores\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Emerson Rodriguez\Desktop\Proyecto_SistemaBase\Sistema-de-Doctor\Sistema de Doctores\Modelo\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Emerson Rodriguez\Desktop\Proyecto_SistemaBase\Sistema-de-Doctor\Sistema de Doctores\Modelo\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Emerson Rodriguez\Desktop\Proyecto_SistemaBase\Sistema-de-Doctor\Sistema de Doctores\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
+C:\Users\Emerson Rodriguez\Desktop\Proyecto_SistemaBase\Sistema-de-Doctor\Sistema de Doctores\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Emerson Rodriguez\Desktop\Proyecto_SistemaBase\Sistema-de-Doctor\Sistema de Doctores\Modelo\obj\Debug\Modelo.csproj.Up2Date
+C:\Users\Emerson Rodriguez\Desktop\Proyecto_SistemaBase\Sistema-de-Doctor\Sistema de Doctores\Modelo\obj\Debug\Modelo.dll
+C:\Users\Emerson Rodriguez\Desktop\Proyecto_SistemaBase\Sistema-de-Doctor\Sistema de Doctores\Modelo\obj\Debug\Modelo.pdb

@@ -41,3 +41,20 @@ C:\Users\Estudiante\Desktop\Sistema-de-Doctor\Sistema de Doctores\vistas\obj\Deb
 C:\Users\Estudiante\Desktop\Sistema-de-Doctor\Sistema de Doctores\vistas\obj\Debug\vistas.csproj.Up2Date
 C:\Users\Estudiante\Desktop\Sistema-de-Doctor\Sistema de Doctores\vistas\obj\Debug\vistas.exe
 C:\Users\Estudiante\Desktop\Sistema-de-Doctor\Sistema de Doctores\vistas\obj\Debug\vistas.pdb
+C:\Users\Emerson Rodriguez\Desktop\Proyecto_SistemaBase\Sistema-de-Doctor\Sistema de Doctores\vistas\bin\Debug\vistas.exe.config
+C:\Users\Emerson Rodriguez\Desktop\Proyecto_SistemaBase\Sistema-de-Doctor\Sistema de Doctores\vistas\bin\Debug\vistas.exe
+C:\Users\Emerson Rodriguez\Desktop\Proyecto_SistemaBase\Sistema-de-Doctor\Sistema de Doctores\vistas\bin\Debug\vistas.pdb
+C:\Users\Emerson Rodriguez\Desktop\Proyecto_SistemaBase\Sistema-de-Doctor\Sistema de Doctores\vistas\bin\Debug\Modelo.dll
+C:\Users\Emerson Rodriguez\Desktop\Proyecto_SistemaBase\Sistema-de-Doctor\Sistema de Doctores\vistas\bin\Debug\Modelo.pdb
+C:\Users\Emerson Rodriguez\Desktop\Proyecto_SistemaBase\Sistema-de-Doctor\Sistema de Doctores\vistas\obj\Debug\vistas.csproj.AssemblyReference.cache
+C:\Users\Emerson Rodriguez\Desktop\Proyecto_SistemaBase\Sistema-de-Doctor\Sistema de Doctores\vistas\obj\Debug\vistas.Formularios.frmDoctor.resources
+C:\Users\Emerson Rodriguez\Desktop\Proyecto_SistemaBase\Sistema-de-Doctor\Sistema de Doctores\vistas\obj\Debug\vistas.Formularios.frmPaciente.resources
+C:\Users\Emerson Rodriguez\Desktop\Proyecto_SistemaBase\Sistema-de-Doctor\Sistema de Doctores\vistas\obj\Debug\vistas.Properties.Resources.resources
+C:\Users\Emerson Rodriguez\Desktop\Proyecto_SistemaBase\Sistema-de-Doctor\Sistema de Doctores\vistas\obj\Debug\vistas.csproj.GenerateResource.cache
+C:\Users\Emerson Rodriguez\Desktop\Proyecto_SistemaBase\Sistema-de-Doctor\Sistema de Doctores\vistas\obj\Debug\vistas.csproj.CoreCompileInputs.cache
+C:\Users\Emerson Rodriguez\Desktop\Proyecto_SistemaBase\Sistema-de-Doctor\Sistema de Doctores\vistas\obj\Debug\vistas.csproj.Up2Date
+C:\Users\Emerson Rodriguez\Desktop\Proyecto_SistemaBase\Sistema-de-Doctor\Sistema de Doctores\vistas\obj\Debug\vistas.exe
+C:\Users\Emerson Rodriguez\Desktop\Proyecto_SistemaBase\Sistema-de-Doctor\Sistema de Doctores\vistas\obj\Debug\vistas.pdb
+C:\Users\Emerson Rodriguez\Desktop\Proyecto_SistemaBase\Sistema-de-Doctor\Sistema de Doctores\vistas\obj\Debug\vistas.Formularios.frmDasboard.resources
+C:\Users\Emerson Rodriguez\Desktop\Proyecto_SistemaBase\Sistema-de-Doctor\Sistema de Doctores\vistas\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Emerson Rodriguez\Desktop\Proyecto_SistemaBase\Sistema-de-Doctor\Sistema de Doctores\vistas\obj\Debug\vistas.Formularios.frmDashboarPrincipal.resources
