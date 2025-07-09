@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Data;
 using System.Data.SqlClient;
+using Modelo.Conexion;
 namespace Modelo.Entidades
 {
     public class Doctor
@@ -12,22 +13,25 @@ namespace Modelo.Entidades
         private int idDoctor;
         private string nombre;
         private string apellido;
-        private string especialidad;
+        private int id_especialidad;
         private string cargo;
 
         public string Nombre { get => nombre; set => nombre = value; }
         public string Apellido { get => apellido; set => apellido = value; }
-        public string Especialidad { get => especialidad; set => especialidad = value; }
         public string Cargo { get => cargo; set => cargo = value; }
         public int IdDoctor { get => idDoctor; set => idDoctor = value; }
+        public int Id_especialidad { get => id_especialidad; set => id_especialidad = value; }
+
+
+
 
 
         //Metodo para mostrar la informacion
         public static DataTable CargarDoctores() {
             //Establecemos la conexion
-            SqlConnection conexion= Conexion.Conexion.Conectar();
+            SqlConnection conexion= ConexionDB.Conectar();
             //Creamos el query
-            string consulataQuery = "select Nombre,Apellido,Especialidad,Cargo from Doctores;";
+            string consulataQuery = "SELECT d.Nombre, d.Apellido, e.Nombre AS Especialidad, d.Cargo FROM Doctores d INNER JOIN Especialidades e ON d.Id_Especialidad = e.Id_Especialidad;";
             //Creamos un objeto adapter para obtener el resultado de nuestro select * from o query
             //que para que funcione le pasamos la consulta y una conexion
             SqlDataAdapter add = new SqlDataAdapter(consulataQuery, conexion);
@@ -42,13 +46,13 @@ namespace Modelo.Entidades
 
         public bool InsertarDoctores() {
             //siempre traer la conexion
-            SqlConnection conexion = Conexion.Conexion.Conectar();
-            string consultaQueryInsert = "insert into Doctores(Nombre,Apellido,Especialidad,Cargo) VALUES(@nombre,@apellido,@especialidad,@cargo);";
+            SqlConnection conexion = ConexionDB.Conectar();
+            string consultaQueryInsert = "insert into Doctores(Nombre,Apellido,Id_Especialidad,Cargo) VALUES(@nombre,@apellido,@Id_especialidad,@cargo);";
             SqlCommand insertar = new SqlCommand(consultaQueryInsert,conexion);
             //Vamos a insertar o sustituir los @nombre con los datos que se obtienen en los txt
             insertar.Parameters.AddWithValue("@nombre",nombre);
             insertar.Parameters.AddWithValue("@apellido", apellido);
-            insertar.Parameters.AddWithValue("@especialidad", especialidad);
+            insertar.Parameters.AddWithValue("@Id_especialidad",Id_especialidad);
             insertar.Parameters.AddWithValue("@cargo", cargo);
 
             //Ahora que ya insertamos debemos ejecutar la sentencia

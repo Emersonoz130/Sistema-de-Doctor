@@ -58,3 +58,20 @@ C:\Users\Emerson Rodriguez\Desktop\Proyecto_SistemaBase\Sistema-de-Doctor\Sistem
 C:\Users\Emerson Rodriguez\Desktop\Proyecto_SistemaBase\Sistema-de-Doctor\Sistema de Doctores\vistas\obj\Debug\vistas.Formularios.frmDasboard.resources
 C:\Users\Emerson Rodriguez\Desktop\Proyecto_SistemaBase\Sistema-de-Doctor\Sistema de Doctores\vistas\bin\Debug\FontAwesome.Sharp.dll
 C:\Users\Emerson Rodriguez\Desktop\Proyecto_SistemaBase\Sistema-de-Doctor\Sistema de Doctores\vistas\obj\Debug\vistas.Formularios.frmDashboarPrincipal.resources
+C:\Users\Estudiante\Desktop\Sistema\Sistema-de-Doctor\Sistema de Doctores\vistas\bin\Debug\vistas.exe.config
+C:\Users\Estudiante\Desktop\Sistema\Sistema-de-Doctor\Sistema de Doctores\vistas\bin\Debug\vistas.exe
+C:\Users\Estudiante\Desktop\Sistema\Sistema-de-Doctor\Sistema de Doctores\vistas\bin\Debug\vistas.pdb
+C:\Users\Estudiante\Desktop\Sistema\Sistema-de-Doctor\Sistema de Doctores\vistas\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Estudiante\Desktop\Sistema\Sistema-de-Doctor\Sistema de Doctores\vistas\bin\Debug\Modelo.dll
+C:\Users\Estudiante\Desktop\Sistema\Sistema-de-Doctor\Sistema de Doctores\vistas\bin\Debug\Modelo.pdb
+C:\Users\Estudiante\Desktop\Sistema\Sistema-de-Doctor\Sistema de Doctores\vistas\obj\Debug\vistas.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Desktop\Sistema\Sistema-de-Doctor\Sistema de Doctores\vistas\obj\Debug\vistas.Formularios.frmDasboard.resources
+C:\Users\Estudiante\Desktop\Sistema\Sistema-de-Doctor\Sistema de Doctores\vistas\obj\Debug\vistas.Formularios.frmDashboarPrincipal.resources
+C:\Users\Estudiante\Desktop\Sistema\Sistema-de-Doctor\Sistema de Doctores\vistas\obj\Debug\vistas.Formularios.frmDoctor.resources
+C:\Users\Estudiante\Desktop\Sistema\Sistema-de-Doctor\Sistema de Doctores\vistas\obj\Debug\vistas.Formularios.frmPaciente.resources
+C:\Users\Estudiante\Desktop\Sistema\Sistema-de-Doctor\Sistema de Doctores\vistas\obj\Debug\vistas.Properties.Resources.resources
+C:\Users\Estudiante\Desktop\Sistema\Sistema-de-Doctor\Sistema de Doctores\vistas\obj\Debug\vistas.csproj.GenerateResource.cache
+C:\Users\Estudiante\Desktop\Sistema\Sistema-de-Doctor\Sistema de Doctores\vistas\obj\Debug\vistas.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\Sistema\Sistema-de-Doctor\Sistema de Doctores\vistas\obj\Debug\vistas.csproj.Up2Date
+C:\Users\Estudiante\Desktop\Sistema\Sistema-de-Doctor\Sistema de Doctores\vistas\obj\Debug\vistas.exe
+C:\Users\Estudiante\Desktop\Sistema\Sistema-de-Doctor\Sistema de Doctores\vistas\obj\Debug\vistas.pdb

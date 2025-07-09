@@ -28,12 +28,14 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
             this.gbDoctor = new System.Windows.Forms.GroupBox();
             this.btnEliminar = new System.Windows.Forms.Button();
             this.btnInsertar = new System.Windows.Forms.Button();
             this.btnActualizar = new System.Windows.Forms.Button();
             this.txtCargo = new System.Windows.Forms.TextBox();
-            this.txtEspecialidad = new System.Windows.Forms.TextBox();
             this.txtApellido = new System.Windows.Forms.TextBox();
             this.lblCargo = new System.Windows.Forms.Label();
             this.lblEspecialidad = new System.Windows.Forms.Label();
@@ -41,17 +43,18 @@
             this.lblapellido = new System.Windows.Forms.Label();
             this.lblNombre = new System.Windows.Forms.Label();
             this.dgvDoctores = new System.Windows.Forms.DataGridView();
+            this.cmbEspecialidad = new System.Windows.Forms.ComboBox();
             this.gbDoctor.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvDoctores)).BeginInit();
             this.SuspendLayout();
             // 
             // gbDoctor
             // 
+            this.gbDoctor.Controls.Add(this.cmbEspecialidad);
             this.gbDoctor.Controls.Add(this.btnEliminar);
             this.gbDoctor.Controls.Add(this.btnInsertar);
             this.gbDoctor.Controls.Add(this.btnActualizar);
             this.gbDoctor.Controls.Add(this.txtCargo);
-            this.gbDoctor.Controls.Add(this.txtEspecialidad);
             this.gbDoctor.Controls.Add(this.txtApellido);
             this.gbDoctor.Controls.Add(this.lblCargo);
             this.gbDoctor.Controls.Add(this.lblEspecialidad);
@@ -59,60 +62,69 @@
             this.gbDoctor.Controls.Add(this.lblapellido);
             this.gbDoctor.Controls.Add(this.lblNombre);
             this.gbDoctor.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.gbDoctor.Location = new System.Drawing.Point(41, 36);
+            this.gbDoctor.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.gbDoctor.Location = new System.Drawing.Point(187, 37);
             this.gbDoctor.Name = "gbDoctor";
-            this.gbDoctor.Size = new System.Drawing.Size(683, 195);
+            this.gbDoctor.Size = new System.Drawing.Size(1070, 223);
             this.gbDoctor.TabIndex = 0;
             this.gbDoctor.TabStop = false;
             this.gbDoctor.Text = "Datos del Doctor";
             // 
             // btnEliminar
             // 
-            this.btnEliminar.Location = new System.Drawing.Point(561, 127);
+            this.btnEliminar.BackColor = System.Drawing.Color.Black;
+            this.btnEliminar.FlatAppearance.BorderSize = 0;
+            this.btnEliminar.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(192)))), ((int)(((byte)(255)))));
+            this.btnEliminar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnEliminar.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.btnEliminar.Location = new System.Drawing.Point(858, 135);
             this.btnEliminar.Name = "btnEliminar";
             this.btnEliminar.Size = new System.Drawing.Size(101, 40);
             this.btnEliminar.TabIndex = 2;
             this.btnEliminar.Text = "Eliminar";
-            this.btnEliminar.UseVisualStyleBackColor = true;
+            this.btnEliminar.UseVisualStyleBackColor = false;
             // 
             // btnInsertar
             // 
-            this.btnInsertar.Location = new System.Drawing.Point(561, 75);
+            this.btnInsertar.BackColor = System.Drawing.Color.Black;
+            this.btnInsertar.FlatAppearance.BorderSize = 0;
+            this.btnInsertar.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(192)))), ((int)(((byte)(255)))));
+            this.btnInsertar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnInsertar.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.btnInsertar.Location = new System.Drawing.Point(858, 83);
             this.btnInsertar.Name = "btnInsertar";
             this.btnInsertar.Size = new System.Drawing.Size(101, 40);
             this.btnInsertar.TabIndex = 2;
             this.btnInsertar.Text = "Agregar";
-            this.btnInsertar.UseVisualStyleBackColor = true;
+            this.btnInsertar.UseVisualStyleBackColor = false;
             this.btnInsertar.Click += new System.EventHandler(this.btnInsertar_Click);
             // 
             // btnActualizar
             // 
-            this.btnActualizar.Location = new System.Drawing.Point(561, 25);
+            this.btnActualizar.BackColor = System.Drawing.Color.Black;
+            this.btnActualizar.FlatAppearance.BorderSize = 0;
+            this.btnActualizar.FlatAppearance.CheckedBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(192)))), ((int)(((byte)(255)))));
+            this.btnActualizar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnActualizar.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.btnActualizar.Location = new System.Drawing.Point(858, 33);
             this.btnActualizar.Name = "btnActualizar";
             this.btnActualizar.Size = new System.Drawing.Size(101, 40);
             this.btnActualizar.TabIndex = 2;
             this.btnActualizar.Text = "Actualizar";
-            this.btnActualizar.UseVisualStyleBackColor = true;
+            this.btnActualizar.UseVisualStyleBackColor = false;
             // 
             // txtCargo
             // 
-            this.txtCargo.Location = new System.Drawing.Point(123, 149);
+            this.txtCargo.Location = new System.Drawing.Point(154, 149);
             this.txtCargo.Name = "txtCargo";
-            this.txtCargo.Size = new System.Drawing.Size(283, 26);
+            this.txtCargo.Size = new System.Drawing.Size(657, 26);
             this.txtCargo.TabIndex = 1;
-            // 
-            // txtEspecialidad
-            // 
-            this.txtEspecialidad.Location = new System.Drawing.Point(123, 110);
-            this.txtEspecialidad.Name = "txtEspecialidad";
-            this.txtEspecialidad.Size = new System.Drawing.Size(283, 26);
-            this.txtEspecialidad.TabIndex = 1;
             // 
             // txtApellido
             // 
-            this.txtApellido.Location = new System.Drawing.Point(123, 70);
+            this.txtApellido.Location = new System.Drawing.Point(154, 70);
             this.txtApellido.Name = "txtApellido";
-            this.txtApellido.Size = new System.Drawing.Size(283, 26);
+            this.txtApellido.Size = new System.Drawing.Size(657, 26);
             this.txtApellido.TabIndex = 1;
             // 
             // lblCargo
@@ -135,9 +147,9 @@
             // 
             // txtNombre
             // 
-            this.txtNombre.Location = new System.Drawing.Point(123, 33);
+            this.txtNombre.Location = new System.Drawing.Point(154, 33);
             this.txtNombre.Name = "txtNombre";
-            this.txtNombre.Size = new System.Drawing.Size(283, 26);
+            this.txtNombre.Size = new System.Drawing.Size(657, 26);
             this.txtNombre.TabIndex = 1;
             // 
             // lblapellido
@@ -160,20 +172,53 @@
             // 
             // dgvDoctores
             // 
+            dataGridViewCellStyle1.BackColor = System.Drawing.Color.Black;
+            dataGridViewCellStyle1.Font = new System.Drawing.Font("Microsoft YaHei UI", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.dgvDoctores.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle1;
             this.dgvDoctores.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
+            this.dgvDoctores.BackgroundColor = System.Drawing.SystemColors.ActiveBorder;
+            this.dgvDoctores.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle2.BackColor = System.Drawing.Color.Black;
+            dataGridViewCellStyle2.Font = new System.Drawing.Font("Microsoft YaHei UI", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle2.ForeColor = System.Drawing.Color.White;
+            dataGridViewCellStyle2.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle2.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.dgvDoctores.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle2;
             this.dgvDoctores.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvDoctores.Location = new System.Drawing.Point(41, 266);
+            dataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle3.BackColor = System.Drawing.Color.Black;
+            dataGridViewCellStyle3.Font = new System.Drawing.Font("Microsoft YaHei UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle3.ForeColor = System.Drawing.Color.White;
+            dataGridViewCellStyle3.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle3.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.dgvDoctores.DefaultCellStyle = dataGridViewCellStyle3;
+            this.dgvDoctores.EnableHeadersVisualStyles = false;
+            this.dgvDoctores.GridColor = System.Drawing.Color.Black;
+            this.dgvDoctores.Location = new System.Drawing.Point(187, 317);
             this.dgvDoctores.Name = "dgvDoctores";
             this.dgvDoctores.ReadOnly = true;
             this.dgvDoctores.RowHeadersVisible = false;
-            this.dgvDoctores.Size = new System.Drawing.Size(683, 150);
+            this.dgvDoctores.Size = new System.Drawing.Size(1070, 481);
             this.dgvDoctores.TabIndex = 1;
+            // 
+            // cmbEspecialidad
+            // 
+            this.cmbEspecialidad.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cmbEspecialidad.FormattingEnabled = true;
+            this.cmbEspecialidad.Location = new System.Drawing.Point(154, 110);
+            this.cmbEspecialidad.Name = "cmbEspecialidad";
+            this.cmbEspecialidad.Size = new System.Drawing.Size(657, 28);
+            this.cmbEspecialidad.TabIndex = 3;
             // 
             // frmDoctor
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.BackColor = System.Drawing.Color.Black;
+            this.ClientSize = new System.Drawing.Size(1284, 823);
             this.Controls.Add(this.dgvDoctores);
             this.Controls.Add(this.gbDoctor);
             this.Name = "frmDoctor";
@@ -191,7 +236,6 @@
         private System.Windows.Forms.GroupBox gbDoctor;
         private System.Windows.Forms.Label lblNombre;
         private System.Windows.Forms.TextBox txtCargo;
-        private System.Windows.Forms.TextBox txtEspecialidad;
         private System.Windows.Forms.TextBox txtApellido;
         private System.Windows.Forms.Label lblCargo;
         private System.Windows.Forms.Label lblEspecialidad;
@@ -201,5 +245,6 @@
         private System.Windows.Forms.Button btnInsertar;
         private System.Windows.Forms.Button btnActualizar;
         private System.Windows.Forms.DataGridView dgvDoctores;
+        private System.Windows.Forms.ComboBox cmbEspecialidad;
     }
 }

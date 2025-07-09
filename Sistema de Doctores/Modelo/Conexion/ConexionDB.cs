@@ -8,7 +8,7 @@ using System.Data;
 
 namespace Modelo.Conexion
 {
-    public class Conexion
+    public class ConexionDB
     {
         private static string servidor= "LAB03-DS-EQ01\\SQLEXPRESS";
         private static string baseDeDatos= "dbHospital";

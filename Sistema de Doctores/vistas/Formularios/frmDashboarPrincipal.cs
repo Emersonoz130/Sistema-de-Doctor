@@ -16,12 +16,33 @@ namespace vistas.Formularios
         {
             InitializeComponent();
         }
+
+        #region Mis variables
+        private Form activarform =null;
+        #endregion
+        #region "Mis metodos"
+        private void AbrirForm(Form formulario) {
+            if (activarform!=null) {
+            //Aqui lo que estamos viendo si esta creado si esta creado se cerrara y crearemos otro form
+            activarform.Close();
+            }
+            activarform=formulario;
+            formulario.TopLevel = false;
+            formulario.FormBorderStyle = FormBorderStyle.None;
+            formulario.Dock = DockStyle.Fill;
+            pnlCuerpo.Controls.Add(formulario);
+            formulario.BringToFront();
+            formulario.Show();
+        
+        }
+        #endregion
+
         private void PanelesSubOpciones(bool estado)
         {
             //Le paso los estados segun la opcion que seleccione en el boton
             pnlMantenimientoPaciente.Visible = estado;
             pnlMantenimientoCitas.Visible = estado;
-            this.pnlMantenimientoDoctor.Visible = estado;
+            pnlMantenimientoDoctor.Visible = estado;
         }
 
         private void frmDashboarPrincipal_Load(object sender, EventArgs e)
@@ -74,5 +95,19 @@ namespace vistas.Formularios
             }
 
         }
+
+        private void pnl_MenuPrincipal_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void btnAgregarDoctor_Click(object sender, EventArgs e)
+        {
+            this.lblOpciones.Text = "REGISTRO DE DOCTORES";
+            this.lblOpciones.Visible = true;
+            AbrirForm(new frmDoctor());
+        }
+
+     
     }
 }
